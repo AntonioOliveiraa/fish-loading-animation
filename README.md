@@ -1,35 +1,35 @@
-# Fish Loading Animation
+# Fish loading animation
 
-Este projeto é uma animação de carregamento estilo spinner usando HTML e CSS. A animação apresenta dois peixinhos nadando em um círculo.
+This project is a spinner style loading animation using HTML and CSS. The animation features two fish swimming in a circle.
 
-## Demonstração
+## Demonstration
 
 ![demo](https://github.com/AntonioOliveiraa/fish-loading-animation/assets/80104016/341127a6-bdec-49f7-80d4-256492d0a1e7)
 
 
-## Estrutura do Projeto
+## Project Structure
 
-O projeto consiste nos seguintes arquivos:
+The project consists of the following files:
 
-- `index.html`: Contém a estrutura HTML da animação.
-- `styles.css`: Contém os estilos CSS para a animação.
+- `index.html`: Contains the HTML structure of the animation.
+- `styles.css`: Contains the animation's CSS styles.
 
-## Como Usar
+## How to use
 
-1. Clone este repositório para o seu computador local:
+1. Clone this repository to your local computer:
 
 ```bash
 git clone https://github.com/AntonioOliveiraa/fish-loading-animation.git
 ```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
 
 ```bash
-cd fish-loading-animation
+cd fish loading animation
 ```
 
-3. Abra o arquivo `index.html` em seu navegador preferido.
+3. Open the `index.html` file in your preferred browser.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
